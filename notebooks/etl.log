@@ -1,0 +1,4 @@
+2024-07-20 10:26:30,174 Processed 5 records from users.csv
+2024-07-20 10:26:30,174 Processed 84 records from transactions.csv
+2024-07-20 10:26:30,174 Removed 2 invalid rows in transactions.csv
+2024-07-20 10:26:30,174 Loaded 5 records into the Users table
