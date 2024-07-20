@@ -18,6 +18,6 @@ Pricing Table
  <br>
 Transactions Table
  <br>
-- transaction fields are incomplete and does not include puk which in the long term would be problematic
-- users in the transactions table also has more users than what the users table has
-- there are missing and incorrect values in the table (trans_id: 1036, 1044)
+- transaction fields are incomplete and does not include puk which in the long term would be problematic  <br>
+- users in the transactions table also has more users than what the users table has  <br>
+- there are missing and incorrect values in the table (trans_id: 1036, 1044)  <br>
